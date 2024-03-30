@@ -1,3 +1,8 @@
+Requirements before using it.
+
+Install aws cli and configure it.
+You can use `brew install awscli`, if you are on macOS
+
 You can enter the input using the references given below.
 
 Welcome to lambda and api creation process!
